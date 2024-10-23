@@ -2,7 +2,7 @@
 Three highly effective frequency bands were selected as inputs for the tracker, and an efficient feature refinement module was designed to enhance the encoding features. The embedded template update network also enhanced the SiamTU's ability to effectively handle complex backgrounds.
 
 ### 1.Performance
-<div align=center><img width="300" height="300" src="https://github.com/ctb2/SiamTU/"/><img width="300" height="300" src="https://github.com/ctb2/SiamTU/"/></div>
+<div align=center><img width="300" height="300" src="https://github.com/ctb2/SiamTU/precission_plot.png"/><img width="300" height="300" src="https://github.com/ctb2/SiamTU/success_plot.png"/></div>
 
 
 ## 2.Environment
