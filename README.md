@@ -14,8 +14,8 @@ Three highly effective frequency bands were selected as inputs for the tracker, 
 
 ## 3.Datasets
 
-Note: Our dataset comes from [Histograms of orient mosaic gradients for snapshot spectral image description][(https://www.sciencedirect.com/science/article/pii/S0924271621002860)] .
-* [dataset][(https://github.com/Chenlulu1993/HOMG)]
+Note: Our dataset comes from [Histograms of orient mosaic gradients for snapshot spectral image description](https://www.sciencedirect.com/science/article/pii/S0924271621002860) .
+* [dataset](https://github.com/Chenlulu1993/HOMG)
 
 ## 4.Results
 We provide tracking results for comparison: In the code directory ......
@@ -30,3 +30,5 @@ The code is implemented based on[SiamGAT](https://github.com/ohhhyeahhh/SiamGAT)
 }
 ```
 
+
+```
