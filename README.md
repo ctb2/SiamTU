@@ -14,7 +14,7 @@ Three highly effective frequency bands were selected as inputs for the tracker, 
 
 ## 3.Datasets
 
-Note: Our dataset comes from [Histograms of orient mosaic gradients for snapshot spectral image description](https://www.sciencedirect.com/science/article/pii/S0924271621002860) .Thanks to luluchen for providing the dataset. 
+Note: Our dataset comes from [Histograms of orient mosaic gradients for snapshot spectral image description](https://www.sciencedirect.com/science/article/pii/S0924271621002860) .Thanks to lulu Chen for providing the dataset. 
 * [dataset](https://github.com/Chenlulu1993/HOMG)
 
 ## 4.Results
