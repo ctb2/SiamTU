@@ -1,5 +1,5 @@
 # SiamTU
-Three highly effective frequency bands were selected as inputs for the tracker, and an efficient feature refinement module was designed to enhance the encoding features. The embedded template update network also enhanced the SiamTU's ability to effectively handle complex backgrounds.
+Three highly effective frequency bands were selected as inputs for the tracker, and an efficient feature refinement module was designed to enhance the encoding features. The embedded template update network also enhanced the SiamTU's ability to effectively handle appearance changes.
 
 ### 1.Performance
 <div align=center><img width="300" height="300" src="https://github.com/ctb2/SiamTU/blob/main/precision_plot.png"/><img width="300" height="300" src="https://github.com/ctb2/SiamTU/blob/main/success_plot.png"/></div>
@@ -14,7 +14,7 @@ Three highly effective frequency bands were selected as inputs for the tracker, 
 
 ## 3.Datasets
 
-Note: Our dataset comes from [Histograms of orient mosaic gradients for snapshot spectral image description](https://www.sciencedirect.com/science/article/pii/S0924271621002860) .
+Note: Our dataset comes from [Histograms of orient mosaic gradients for snapshot spectral image description](https://www.sciencedirect.com/science/article/pii/S0924271621002860) .Thanks to luluchen for providing the dataset. 
 * [dataset](https://github.com/Chenlulu1993/HOMG)
 
 ## 4.Results
